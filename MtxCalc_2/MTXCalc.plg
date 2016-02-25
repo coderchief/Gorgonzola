@@ -1,0 +1,84 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MTXCalc - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\TOMASS~1\LOCALS~1\Temp\RSP25DB.tmp" with contents
+[
+/nologo /MDd /W2 /Gm /GX /ZI /Od /I "..\xpFiles" /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\CodeWIP\MtxCalc\CalcUnary.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\TOMASS~1\LOCALS~1\Temp\RSP25DB.tmp" 
+Creating temporary file "C:\DOCUME~1\TOMASS~1\LOCALS~1\Temp\RSP25DC.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/MTXCalc.pdb" /debug /machine:I386 /out:"Debug/MTXCalc.exe" 
+.\Debug\AllPages.obj
+.\Debug\CalcBinary.obj
+.\Debug\CalcDlg.obj
+.\Debug\CalcResults.obj
+.\Debug\CalcUnary.obj
+.\Debug\ChildFrm.obj
+.\Debug\DlgInitValues.obj
+.\Debug\GridCell.obj
+.\Debug\GridCellBase.obj
+.\Debug\GridCtrl.obj
+.\Debug\GridDropTarget.obj
+.\Debug\InPlaceEdit.obj
+.\Debug\InPlaceList.obj
+.\Debug\MainFrm.obj
+.\Debug\MatrixGrid.obj
+.\Debug\MTXCalc.obj
+.\Debug\MTXCalcDoc.obj
+.\Debug\MTXCalcView.obj
+.\Debug\MtxRef.obj
+.\Debug\MtxSpecsDlg.obj
+.\Debug\TitleTip.obj
+.\Debug\xpException.obj
+.\Debug\xpMatrix.obj
+.\Debug\MTXCalc.res
+]
+Creating command line "link.exe @C:\DOCUME~1\TOMASS~1\LOCALS~1\Temp\RSP25DC.tmp"
+<h3>Output Window</h3>
+Compiling...
+CalcUnary.cpp
+Linking...
+Creating temporary file "C:\DOCUME~1\TOMASS~1\LOCALS~1\Temp\RSP25DD.tmp" with contents
+[
+/nologo /o"Debug/MTXCalc.bsc" 
+.\Debug\AllPages.sbr
+.\Debug\CalcBinary.sbr
+.\Debug\CalcDlg.sbr
+.\Debug\CalcResults.sbr
+.\Debug\CalcUnary.sbr
+.\Debug\ChildFrm.sbr
+.\Debug\DlgInitValues.sbr
+.\Debug\GridCell.sbr
+.\Debug\GridCellBase.sbr
+.\Debug\GridCtrl.sbr
+.\Debug\GridDropTarget.sbr
+.\Debug\InPlaceEdit.sbr
+.\Debug\InPlaceList.sbr
+.\Debug\MainFrm.sbr
+.\Debug\MatrixGrid.sbr
+.\Debug\MTXCalc.sbr
+.\Debug\MTXCalcDoc.sbr
+.\Debug\MTXCalcView.sbr
+.\Debug\MtxRef.sbr
+.\Debug\MtxSpecsDlg.sbr
+.\Debug\TitleTip.sbr
+.\Debug\xpException.sbr
+.\Debug\xpMatrix.sbr]
+Creating command line "bscmake.exe @C:\DOCUME~1\TOMASS~1\LOCALS~1\Temp\RSP25DD.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+MTXCalc.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

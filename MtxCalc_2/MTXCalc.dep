@@ -1,0 +1,311 @@
+# Microsoft Developer Studio Generated Dependency File, included by MTXCalc.mak
+
+.\AllPages.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\CalcBinary.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\CalcDlg.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcDlg.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\CalcResults.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\CalcUnary.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\xpfiles\stdafx.h"\
+	"..\..\xpFiles\xpException.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\ChildFrm.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\ChildFrm.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\GridCtrl.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\InPlaceEdit.h"\
+	".\MemDC.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	
+
+.\GridDropTarget.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	
+
+.\InPlaceEdit.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\InPlaceEdit.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	
+
+.\InPlaceList.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\InPlaceList.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	
+
+.\MainFrm.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\MTXCalc.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcDlg.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\ChildFrm.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\limitsingleinstance.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\MtxSpecsDlg.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\MTXCalc.rc : \
+	".\res\cursor1.cur"\
+	".\res\MTXCalc.ico"\
+	".\res\MTXCalc.rc2"\
+	".\res\MTXCalcDoc.ico"\
+	".\res\Toolbar.bmp"\
+	".\resource.hm"\
+	
+
+.\MTXCalcDoc.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\MtxSpecsDlg.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\MTXCalcView.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\MtxSpecsDlg.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\MtxRef.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\MtxSpecsDlg.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\AllPages.h"\
+	".\CalcBinary.h"\
+	".\CalcResults.h"\
+	".\CalcUnary.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\MainFrm.h"\
+	".\MTXCalc.h"\
+	".\MTXCalcDoc.h"\
+	".\MTXCalcView.h"\
+	".\MtxRef.h"\
+	".\MtxSpecsDlg.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	".\xpmatrix.h"\
+	
+
+.\TitleTip.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	".\CellRange.h"\
+	".\GridCtrl.h"\
+	".\GridDropTarget.h"\
+	".\StdAfx.h"\
+	".\TitleTip.h"\
+	
+
+..\..\xpFiles\xpException.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\xpfiles\stdafx.h"\
+	"..\..\xpFiles\xpException.h"\
+	
+
+..\..\xpFiles\xpMatrix.cpp : \
+	"..\..\..\..\..\..\program files\microsoft visual studio\vc98\include\basetsd.h"\
+	"..\..\xpfiles\stdafx.h"\
+	"..\..\xpFiles\xpException.h"\
+	"..\..\xpFiles\xpMatrix.h"\
+	

@@ -1,0 +1,27 @@
+// MtxList.cpp: implementation of the MtxList class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "MTXCalc.h"
+#include "MtxList.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+MtxList::MtxList()
+{
+
+}
+
+MtxList::~MtxList()
+{
+
+}

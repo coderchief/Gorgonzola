@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by MTXCalc.rc
+//
+#define HIDC_MULTIPLY                   0x808703f9    // IDD_CALC_BINARY
